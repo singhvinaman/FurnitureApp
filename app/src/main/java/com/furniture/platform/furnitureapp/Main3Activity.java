@@ -1,4 +1,4 @@
-package com.shashank.platform.furnitureecommerceappui;
+package com.furniture.platform.furnitureapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

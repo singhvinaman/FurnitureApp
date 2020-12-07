@@ -1,4 +1,4 @@
-package com.shashank.platform.furnitureecommerceappui;
+package com.furniture.platform.furnitureapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

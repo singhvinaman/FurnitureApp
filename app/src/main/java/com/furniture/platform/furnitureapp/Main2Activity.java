@@ -1,4 +1,4 @@
-package com.shashank.platform.furnitureecommerceappui;
+package com.furniture.platform.furnitureapp;
 
 import android.content.Intent;
 import android.support.design.widget.FloatingActionButton;
